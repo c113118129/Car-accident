@@ -1,2 +1,4 @@
-# Car-accident
-jsut Car-accident
+# Car-accident 車禍偵測
+>組長：吳嘉恩
+>
+>組員：周鈺偉、葉和勳、...
